@@ -1,0 +1,23 @@
+{
+  "name": "harry-potter-app",
+  "version": "1.0.0",
+  "description": "Small app to practice the use of fetch()",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/timurbuch/harry-potter-app.git"
+  },
+  "author": "Timur Buchberger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timurbuch/harry-potter-app/issues"
+  },
+  "homepage": "https://github.com/timurbuch/harry-potter-app#readme",
+  "dependencies": {
+    "vite": "^2.5.6"
+  }
+}
