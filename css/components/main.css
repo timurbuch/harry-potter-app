@@ -2,7 +2,15 @@
   background-color: whitesmoke;
   padding: 1rem;
 }
+section {
+  min-height: 25vh;
+}
 .section-slytherin {
+  min-height: 25vh;
+  display: flex;
+  gap: 1rem;
+  flex-direction: row;
+  flex-wrap: wrap;
   background-image: linear-gradient(
     45deg,
     #1a472a 12.5%,
@@ -23,6 +31,11 @@
   );
 }
 .section-ravenclaw {
+  min-height: 25vh;
+  display: flex;
+  gap: 1rem;
+  flex-direction: row;
+  flex-wrap: wrap;
   background-image: linear-gradient(
     45deg,
     #0e1a40 16.67%,
@@ -39,6 +52,11 @@
   );
 }
 .section-gryffindor {
+  min-height: 25vh;
+  display: flex;
+  gap: 1rem;
+  flex-direction: row;
+  flex-wrap: wrap;
   background-image: linear-gradient(
     45deg,
     #740001 16.67%,
@@ -55,6 +73,11 @@
   );
 }
 .section-hufflepuff {
+  min-height: 25vh;
+  display: flex;
+  gap: 1rem;
+  flex-direction: row;
+  flex-wrap: wrap;
   background-image: linear-gradient(
     45deg,
     #fff4b1 12.5%,
